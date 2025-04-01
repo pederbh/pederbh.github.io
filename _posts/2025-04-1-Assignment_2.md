@@ -1,5 +1,5 @@
 # What i've learned in the FastAI course so far!
-</em>This is what i have learned in the fastAI course so far!</em>
+<em>This is what i have learned in the fastAI course so far!</em>
 
 An epoch is a complete pass through the entire training dataset, during which the model sees all samples a certain number of times. This process is essential for allowing the model to learn better and gradually converge toward an optimal solution.
 
